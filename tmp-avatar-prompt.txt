@@ -1,0 +1,13 @@
+﻿Use case: stylized-concept
+Asset type: X profile avatar for NFT project
+Primary request: Create a square avatar for TX PUNKS, a dark Ethereum-native NFT brand. Show one original punk-inspired pixel portrait with stable anatomy, collectible PFP readability, and visible blockchain mutation. It should feel like a chain-born cyberpunk identity, not a random blob and not a direct CryptoPunks copy.
+Scene/backdrop: very dark graphite-black background with subtle terminal static and faint mint-green haze
+Subject: one iconic original punk portrait, centered, large face, readable silhouette in a small circular crop
+Style/medium: premium pixel art, 24x24 style enlarged crisply, dark cyberpunk forensic aesthetic
+Composition/framing: tight centered bust portrait with strong negative space around the head for circular avatar crop safety
+Lighting/mood: dim underground Ethereum artifact mood, subtle screen glow
+Color palette: charcoal black, cold steel gray, mint green accents, small burn-orange mutation details, optional electric blue hair accent
+Materials/textures: crisp pixels, scanline dust, light glitch fragments
+Text (verbatim): ""
+Constraints: no text, no watermark, no logos, no extra characters, no crowded background, no direct CryptoPunks asset copying
+Avoid: rainbow gradients, meme styling, cartoon softness, blurry painterly rendering

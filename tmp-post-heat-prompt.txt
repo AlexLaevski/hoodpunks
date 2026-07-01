@@ -1,0 +1,13 @@
+﻿Use case: productivity-visual
+Asset type: X social post card
+Primary request: Create a vertical-ish social card for TX PUNKS focused on one overheated high-gas punk. Show one original punk-inspired pixel portrait with visible burn damage, molten edges, glowing eyes, and heat scars. Surround it with minimal dossier-style metadata blocks and forensic UI labels so it feels like an Ethereum mutation case file.
+Scene/backdrop: dark dossier panel with subtle static and terminal lines
+Subject: one severe high-gas TX PUNK portrait
+Style/medium: premium pixel art with dark UI framing
+Composition/framing: hero portrait left or center, compact metadata blocks around it, readable for Twitter image preview
+Lighting/mood: scorched, hot, dangerous, but still collectible and readable
+Color palette: black, graphite, burn orange, dim red, mint green for labels
+Materials/textures: crisp pixel render, ember cracks, terminal cards
+Text (verbatim): "HIGH GAS // THERMAL BURN"
+Constraints: make the heat obvious, no watermark, no extra characters, no direct CryptoPunks asset copying
+Avoid: soft gradients, generic infographic look, meme visuals

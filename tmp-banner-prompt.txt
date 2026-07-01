@@ -1,0 +1,13 @@
+﻿Use case: ads-marketing
+Asset type: X banner for NFT project
+Primary request: Create a wide banner for TX PUNKS showing a lineup of 5 original punk-inspired pixel portraits mutated by Ethereum transaction entropy. The banner should feel like a chain artifact dossier wall, with different identities showing heat, static fracture, whale prestige, ancient monochrome, and machine pressure. Keep it dark, premium, and readable.
+Scene/backdrop: black and graphite forensic wall with subtle grid, terminal scanlines, tx fragments, and glowing metric strips
+Subject: five distinct chain-born punk portraits across the banner, each with different mutation logic and mood
+Style/medium: premium pixel art enlarged crisply, dark cyberpunk Ethereum-native visual design
+Composition/framing: cinematic wide composition, portraits spread horizontally, room for profile avatar overlap and UI crop safety, strong center-left focus
+Lighting/mood: underground terminal room, evidence-board energy, subtle mint and blue glow, occasional burn-orange scars
+Color palette: black, graphite, mint green, cold blue, dirty gold, burn orange
+Materials/textures: crisp pixels, static dust, scanlines, glassy UI overlays, tx metadata strips
+Text (verbatim): "TRANSACTION ENTROPY BECOMES IDENTITY"
+Constraints: text must be readable, no watermark, no direct CryptoPunks asset copying, no bright rainbow palette, no soft illustration look
+Avoid: cartoon look, glossy 3D mascots, generic sci-fi poster composition, too much empty space

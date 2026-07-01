@@ -1,0 +1,13 @@
+﻿Use case: productivity-visual
+Asset type: X social post card
+Primary request: Create a social card for TX PUNKS showing a cleaner chain-born punk and a mutation dossier presentation. The piece should feel like a collectible identity record extracted from Ethereum. Include one original punk-inspired portrait, a dark elegant card frame, and small UI-style trait blocks for gas, congestion, wallet era, and status.
+Scene/backdrop: black forensic dashboard with subtle blue and mint glow
+Subject: one readable original punk-inspired portrait with calmer mutation profile
+Style/medium: pixel art portrait plus dark interface design
+Composition/framing: portrait on one side, dossier traits on the other, balanced for Twitter preview
+Lighting/mood: cool, archival, chain-locked, premium
+Color palette: black, graphite, mint green, cold blue, steel gray
+Materials/textures: crisp pixels, scanlines, dossier boxes, subtle noise
+Text (verbatim): "ONE TX HASH // ONE IDENTITY"
+Constraints: no watermark, no direct CryptoPunks asset copying, text readable, collectible aesthetic
+Avoid: clutter, rainbow colors, childish cartoon vibes
