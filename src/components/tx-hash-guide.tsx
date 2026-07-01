@@ -5,8 +5,15 @@ import {
   activeRobinhoodChain,
 } from "@/lib/chains";
 
-function buildSteps() {
-  const steps = [
+type GuideStep = {
+  title: string;
+  body: string;
+  link: string | null;
+  linkLabel: string | null;
+};
+
+function buildSteps(): GuideStep[] {
+  const steps: GuideStep[] = [
     {
       title: "Open the explorer",
       body: `Browse live transactions on ${activeRobinhoodChain.name}.`,
